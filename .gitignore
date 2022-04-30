@@ -1,0 +1,19 @@
+# Notebooks
+DeepLearning_RandomForest.ipynb
+DeepLearning_Tabular.ipynb
+checkpoints/
+stadardization_practice.ipynb
+trained_attrition.h5
+AlphabetSoupCharity_starter_code.ipynb
+DeepLearning_SVM.ipynb
+LogisticRegression_NeuralNet.ipynb
+encoding_practice.ipynb
+tensorflow_practice.ipynb
+
+# Resources
+HR-Employee-Attrition.csv
+bank_telemarketing.csv
+diabetes.csv
+hr_dataset.csv
+loan_status.csv
+ramen-ratings.csv
